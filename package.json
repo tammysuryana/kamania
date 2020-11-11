@@ -1,0 +1,24 @@
+{
+  "name": "kamania",
+  "version": "1.0.0",
+  "description": "belajar rest api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "peratmakali "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tammysuryana/kamania.git"
+  },
+  "keywords": [
+    "nodejs",
+    "restapi",
+    "belajar"
+  ],
+  "author": "tammysuryana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tammysuryana/kamania/issues"
+  },
+  "homepage": "https://github.com/tammysuryana/kamania#readme"
+}
